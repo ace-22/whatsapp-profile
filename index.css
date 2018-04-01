@@ -1,0 +1,51 @@
+
+body{
+	background-image:url("background-whatsapp-7.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100%100%;
+}
+.footer{
+	
+	background-color: #273443;
+    height:5vh;
+	bottom: 0;
+  	left: 0;
+  	text-align: center;
+  	width: 100%;
+  	margin-top:5vh;
+  	
+  	
+}
+.container .row .col .list-group .card .card-body .card-name{
+	color:black;
+	font-style:bold;
+	font-size:2rem;
+}
+
+.container .row .col .drx .card .card-body{
+	background-image:url("super_hero_whatsapp_background_by_x_ama-d8fr7iz.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.container .row .colx .card{
+	background-image:url("background-whatsapp-7.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.footerx{
+	
+	background-color: #273443;
+    height:5vh;
+	bottom: 0;
+  	left: 0;
+  	text-align:center;
+  	position:fixed;
+  	width: 100%;
+  	margin-top:auto;
+  
+  	
+  	
+}
